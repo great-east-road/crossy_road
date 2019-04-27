@@ -1,0 +1,16 @@
+
+
+# Ignore blender's backup files
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.blend5
+*.blend6
+
+# Ignore "render" and "export" folders
+exports
+export
+render
+
+
